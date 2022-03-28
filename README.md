@@ -3,3 +3,5 @@
 # DOM
 
 ## Перемещение элемента
+
+[github pages](https://borison4ik.github.io/ahj-dom/)
