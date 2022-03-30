@@ -35,7 +35,7 @@ window.onload = () => {
     if(number === RND) {
       do {
         number = Math.floor(Math.random() * SIZE ** 2);
-      } while (number !== RND);
+      } while (number === RND);
     }
     return number;
   }
